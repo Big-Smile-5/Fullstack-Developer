@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Big-Smile-5/Fullstack-Developer/static/css/main.1421ece4.chunk.css",
-    "main.js": "/Big-Smile-5/Fullstack-Developer/static/js/main.36b3becb.chunk.js",
-    "main.js.map": "/Big-Smile-5/Fullstack-Developer/static/js/main.36b3becb.chunk.js.map",
-    "runtime-main.js": "/Big-Smile-5/Fullstack-Developer/static/js/runtime-main.3f945c40.js",
-    "runtime-main.js.map": "/Big-Smile-5/Fullstack-Developer/static/js/runtime-main.3f945c40.js.map",
-    "static/js/2.920956a2.chunk.js": "/Big-Smile-5/Fullstack-Developer/static/js/2.920956a2.chunk.js",
-    "static/js/2.920956a2.chunk.js.map": "/Big-Smile-5/Fullstack-Developer/static/js/2.920956a2.chunk.js.map",
-    "index.html": "/Big-Smile-5/Fullstack-Developer/index.html",
-    "precache-manifest.6fe8981057d6c8ab60a52f617a3ff2db.js": "/Big-Smile-5/Fullstack-Developer/precache-manifest.6fe8981057d6c8ab60a52f617a3ff2db.js",
-    "service-worker.js": "/Big-Smile-5/Fullstack-Developer/service-worker.js",
-    "static/css/main.1421ece4.chunk.css.map": "/Big-Smile-5/Fullstack-Developer/static/css/main.1421ece4.chunk.css.map",
-    "static/js/2.920956a2.chunk.js.LICENSE.txt": "/Big-Smile-5/Fullstack-Developer/static/js/2.920956a2.chunk.js.LICENSE.txt",
-    "static/media/hashirshoaeb.png": "/Big-Smile-5/Fullstack-Developer/static/media/hashirshoaeb.32f6b574.png",
-    "static/media/resume.pdf": "/Big-Smile-5/Fullstack-Developer/static/media/resume.9d3da0e2.pdf"
+    "main.css": "/Fullstack-Developer/static/css/main.1421ece4.chunk.css",
+    "main.js": "/Fullstack-Developer/static/js/main.96ad301a.chunk.js",
+    "main.js.map": "/Fullstack-Developer/static/js/main.96ad301a.chunk.js.map",
+    "runtime-main.js": "/Fullstack-Developer/static/js/runtime-main.63fa3035.js",
+    "runtime-main.js.map": "/Fullstack-Developer/static/js/runtime-main.63fa3035.js.map",
+    "static/js/2.920956a2.chunk.js": "/Fullstack-Developer/static/js/2.920956a2.chunk.js",
+    "static/js/2.920956a2.chunk.js.map": "/Fullstack-Developer/static/js/2.920956a2.chunk.js.map",
+    "index.html": "/Fullstack-Developer/index.html",
+    "precache-manifest.58a169854fcd4cbff3255855f40e2358.js": "/Fullstack-Developer/precache-manifest.58a169854fcd4cbff3255855f40e2358.js",
+    "service-worker.js": "/Fullstack-Developer/service-worker.js",
+    "static/css/main.1421ece4.chunk.css.map": "/Fullstack-Developer/static/css/main.1421ece4.chunk.css.map",
+    "static/js/2.920956a2.chunk.js.LICENSE.txt": "/Fullstack-Developer/static/js/2.920956a2.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/Fullstack-Developer/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/resume.pdf": "/Fullstack-Developer/static/media/resume.9d3da0e2.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f945c40.js",
+    "static/js/runtime-main.63fa3035.js",
     "static/js/2.920956a2.chunk.js",
     "static/css/main.1421ece4.chunk.css",
-    "static/js/main.36b3becb.chunk.js"
+    "static/js/main.96ad301a.chunk.js"
   ]
 }
